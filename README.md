@@ -1,2 +1,2 @@
 # practice
-this is a demo one not a practical
+this is a demo one not a practical.
